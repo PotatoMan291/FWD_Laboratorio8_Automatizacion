@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "titulo": "Entregar laboratorio React",
+      "descripcion": "Completar el laboratorio de automatización",
+      "fechaLimite": "2026-09-10",
+      "estado": "pendiente"
+    },
+    {
+      "id": "2",
+      "titulo": "Configurar workflow de n8n",
+      "descripcion": "Crear y probar el flujo automatizado",
+      "fechaLimite": "2026-09-15",
+      "estado": "pendiente"
+    },
+    {
+      "id": "3",
+      "titulo": "Crear informe",
+      "descripcion": "Preparar el informe final del laboratorio",
+      "fechaLimite": "2026-09-20",
+      "estado": "pendiente"
+    }
+  ]
+}
